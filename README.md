@@ -242,3 +242,6 @@ This repository serves as the official landing page for Backworlds. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Backworlds today!**
+
+---
+**Last updated:** 2026-09-12 16:04:08 UTC
