@@ -244,4 +244,4 @@ This repository serves as the official landing page for Backworlds. The software
 **Get the most recent version of Backworlds today!**
 
 ---
-**Last updated:** 2026-10-05 18:03:23 UTC
+**Last updated:** 2026-10-06 00:38:22 UTC
